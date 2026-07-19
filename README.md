@@ -21,7 +21,7 @@ Instead of relying on AI hallucinations, BuzzGuide fetches a **real-world datase
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/buzzguide.git](https://github.com/YOUR_USERNAME/buzzguide.git)
+git clone [https://github.com/MuhammadAsad29/buzzguide.git](https://github.com/MuhammadAsad29/buzzguide.git)
 cd buzzguide
 2. Install required dependencies
 Make sure you have Python installed, then run:
